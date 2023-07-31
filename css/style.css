@@ -1,0 +1,39 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    color:#dbd8e3;
+}
+
+.nfrengi {
+    background-color: #5c5470;
+}
+
+body {
+    background-color: #2a2438;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+footer{
+    margin-top: auto;
+}
+
+.kartrengi {
+    background-color: #5c5470;
+}
+
+.navborder{
+    border-bottom: 0.25px;
+    border-top:0px;
+    border-left:0px;
+    border-right:0px;
+    border-style: solid;
+}
+
+.al:hover {
+    text-decoration: underline;
+}
+
+.ortala {
+    width:67%;
+}
